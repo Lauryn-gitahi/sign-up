@@ -1,2 +1,2 @@
 # sign-up
-A simple sihn up form
+A simple sign up form
